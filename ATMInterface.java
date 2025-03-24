@@ -3,7 +3,7 @@ package ATM_Interface;
 import java.util.Scanner;
 
 class BankAccount {
-    String name;  
+    String st1;  
     String userName;
     String password;
     String accountNo;
